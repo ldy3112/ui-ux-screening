@@ -10,7 +10,11 @@
 4. Design sebuah logo sebuah warung makan yang menu utamanya adalah nasi goreng. Deskripsikan proses design, mulai dari inspirasi logo sampai finishing.
 
 ### Jawaban
-1. 
+1. Aplikasi instant messenger yang saya desain ulang adalah WhatsApp
+![MockupWhatsapp Tablet](https://raw.githubusercontent.com/ldy3112/ui-ux-screening/main/WhatsApp%20Mockup.png)
+  
+  Kelemahan dari UI/UX WhatsApp adalah kurangnya dukungan untuk form-factor tablet. UI WhatsApp pada tablet hanya versi skala dari WhatsApp biasa. Seharusnya WhatsApp menerapkan 2 jendela seperti yang ada pada WhatsApp Desktop/Web. Juga pilihan desain WhatsApp yang terlalu plain.
+  Solusinya adalah dengan menggunakan sistem Material You yang dibuat oleh Google untuk Android 12 ke atas. Dengan itu, tampilan WhatsApp tidak hanya menjadi lebih menarik, namun juga dapat mengikuti tema sistem Android sehingga aplikasi dapat seragam.
 
 2. Karena WhatsApp tidak menyediakan fitur tema. Sehingga untuk pengguna Android 12 ke atas tidak dapat menikmati tema yang konsisten. Juga UI WhatsApp untuk tablet menurut saya masih kurang efisien.
 

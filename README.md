@@ -27,4 +27,10 @@ Terlihat jika kolom chat dan penerima pesan dapat terlihat bersamaan sehingga pe
 
 3. Design trend yang sesuai dengan prinsip saya adalah <a href="https://material.io/blog/announcing-material-you">Material You</a> yang dibuat oleh Google. Karena prinsip desain saya adalah desain yang konsisten. Sehingga setiap aplikasi dapat terlihat seragam dan nyaman dipandang.
 
+Beberapa tampilan dari sistem Android 12 dengan Material You
+![Home Screen](https://raw.githubusercontent.com/ldy3112/ui-ux-screening/main/Screenshot_20220705-132944_NusantaraLauncher.png)
+![Widget](https://raw.githubusercontent.com/ldy3112/ui-ux-screening/main/Screenshot_20220705-133002_NusantaraLauncher.png)
+![QS-Notif](https://raw.githubusercontent.com/ldy3112/ui-ux-screening/main/Screenshot_20220705-133008_NusantaraLauncher.png)
+![QS](https://raw.githubusercontent.com/ldy3112/ui-ux-screening/main/Screenshot_20220705-133011_NusantaraLauncher.png)
+
 4.

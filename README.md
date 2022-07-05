@@ -12,7 +12,7 @@
 ### Jawaban
 1. 
 
-2. 
+2. Karena WhatsApp tidak menyediakan fitur tema. Sehingga untuk pengguna Android 12 ke atas tidak dapat menikmati tema yang konsisten. 
 
 3. Design trend yang sesuai dengan prinsip saya adalah <a href="https://material.io/blog/announcing-material-you">Material You</a> yang dibuat oleh Google. Karena prinsip desain saya adalah desain yang konsisten. Sehingga setiap aplikasi dapat terlihat seragam dan nyaman dipandang.
 
